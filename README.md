@@ -1,2 +1,3 @@
 # ARGOigdp
-ARGO Indie Game Developer Program
+THIS IS THE GENERAL REPOSITORY FOR THE ARGO INDEPENDENT GAME DEVELOPER PROGRAM, ALL SUB-PROJECTS WILL BE MANAGED THROUGH ADDITIONAL REPOSITORIES
+From the earliest possible age all sentient creatures willfully engage and interact in the world around them through play. Play allows us to develop our physical and mental dexterity; our creativity, and imagination, as well as our cognitive, emotional, and social tools. By simultaneously exploring and defining the world around us and our role in it, we create the context and framework for the most crucial behaviors and the decisions that shape our identities, our lives, and the very fabric of reality. It is for these reasons the Alternate Reality Game Organization provides assistance to the game development community and resources through our programs directly to the game developers who are actively creating the realities we all share. 
